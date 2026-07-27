@@ -1,24 +1,25 @@
-# ecommerce-seedshop-server
+# 🌱 SeedShop E-Commerce Web Application
 
-## Overview
-**ecommerce-seedshop-server** is a software application codebase.
+[![React](https://img.shields.io/badge/Frontend-React.js-61DAFB.svg)](https://reactjs.org/)
+[![Node](https://img.shields.io/badge/Backend-Node.js-green.svg)](https://nodejs.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-## Directory Structure
-```
-.env
-.gitignore
-index.js
-package-lock.json
-package.json
-README.md
-models\Product.js
-routes\productRoutes.js
-```
+## 📌 Overview
+**SeedShop E-Commerce** is a full-stack online shopping platform specifically designed for selling agricultural seeds, plant varieties, and gardening tools.
 
-## Setup & Running
-1. Clone the repository: `git clone https://github.com/sreenath1212/ecommerce-seedshop-server.git`
-2. Install necessary dependencies based on configuration files.
-3. Run the entrypoint script.
+## ✨ Key Features
+- 🌱 **Seed Catalog**: Browse organic, hybrid, and seasonal seed varieties.
+- 🛒 **Cart & Checkout**: Interactive shopping cart with order summary.
+- 💳 **Secure Payment Processing**: Integration-ready checkout flow.
+- 🔐 **User Accounts**: Manage past orders, shipping addresses, and profiles.
 
----
-*Maintained automatically.*
+## 🛠️ Tech Stack
+- **Client**: React.js, CSS3, Axios
+- **Server**: Node.js, Express.js, MongoDB
+
+## 🚀 Quick Start
+1. Client: `cd client && npm install && npm start`
+2. Server: `cd server && npm install && npm start`
+
+## 📄 License
+MIT License.
