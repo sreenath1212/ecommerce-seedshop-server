@@ -1,15 +1,24 @@
 # ecommerce-seedshop-server
 
-A developer project application codebase.
+## Overview
+**ecommerce-seedshop-server** is a software application codebase.
 
-## Features & Project Details
-- Clean, structured codebase setup.
-- Automated repository management and tracking.
+## Directory Structure
+```
+.env
+.gitignore
+index.js
+package-lock.json
+package.json
+README.md
+models\Product.js
+routes\productRoutes.js
+```
 
-## Getting Started
-1. Clone the repository.
-2. Review project structure and install dependencies based on configuration files.
-3. Run the development or build scripts as specified in the project.
+## Setup & Running
+1. Clone the repository: `git clone https://github.com/sreenath1212/ecommerce-seedshop-server.git`
+2. Install necessary dependencies based on configuration files.
+3. Run the entrypoint script.
 
 ---
-*Uploaded & maintained automatically.*
+*Maintained automatically.*
